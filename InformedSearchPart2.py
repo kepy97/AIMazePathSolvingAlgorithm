@@ -1,4 +1,4 @@
-# Homework 1 Part 2 Artificial Intelligence kvpatel
+# Artificial Intelligence
 from collections import deque
 import queue as queue
 from timeit import default_timer as timer
