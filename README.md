@@ -12,6 +12,6 @@ The asterisks can count as any letter you like, and you may not make a U-turn by
 
 Find the shortest route to the "c" in the bottom right-hand corner.”
 
-     ![problem1](/maze1.gif)     ![problem2](/maze2.gif)
+![problem1](/maze1.gif)     ![problem2](/maze2.gif)
 
 The solution is to be given as a sequence of  (44) locations, including some repeats, numbered left to right, top to bottom, ie  {1 2 8 9 10 4 3 9 10 11 5 4 10 16 17 11 10 9 8 14 13 19 20 26 32 33 34 35 29 28 22 16 10 9 8 7 13 19 25 26 27 28 29 30 36}
